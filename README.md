@@ -1,5 +1,5 @@
 Discover Spain
-This project is a 5-page website about Spain. It shows my skills in building websites and my knowledge of the Spanish language. 🔗 [[Link to Project]((http://gregarious-rostrum.poseidon.salford.ac.uk/index.html))]
+This project is a 5-page website about Spain. It shows my skills in building websites and my knowledge of the Spanish language. 🔗 [[Link to Project](http://gregarious-rostrum.poseidon.salford.ac.uk/index.html)]
 
 What’s Inside
   - Home Page: A simple start with big buttons to help you find the different sections: Culture, Destinations, or Food.
